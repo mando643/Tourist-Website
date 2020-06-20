@@ -1,0 +1,32 @@
+.jumbotron
+{
+	background-image: url(images/skyline.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+  .navbar-light .navbar-brand {
+            color: #fff;
+            font-size: 25px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 2px;
+        }
+		  .navbar-light .navbar-nav .nav-link {
+            color: #fff;
+        }
+
+        .navbar-toggler {
+            background: #fff;
+        }
+
+        .navbar-nav {
+            text-align: center;
+        }
+
+        .nav-link {
+            padding: .2rem 1rem;
+        }
+
+		
